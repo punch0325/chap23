@@ -1,0 +1,21 @@
+{
+  "name": "chap23",
+  "version": "1.0.0",
+  "description": "1. Java Project 생성 2. git init  3. gedit .gitignore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es7-sleep": "^1.0.0",
+    "sprintf-js": "^1.1.2"
+  },
+  "bin": {
+    "chap23": "bin/repl.js"
+  },
+  "devDependencies": {}
+}
